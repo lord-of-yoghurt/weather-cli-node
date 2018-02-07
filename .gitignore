@@ -1,0 +1,4 @@
+node_modules/
+scrap/
+package-lock.json
+.env
